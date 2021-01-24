@@ -1,0 +1,13 @@
+.tags-main {
+  padding: 1.5em;
+}
+
+.tag-link {
+  text-decoration: none;
+  color: #2d3748;
+  font-size: 1.5rem;
+}
+
+.tag-link:hover {
+  text-decoration: underline;
+}
